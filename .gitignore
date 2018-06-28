@@ -1,4 +1,4 @@
-".obj
-".tmp
+*.obj
+*.tmp
 
-/tmp
+tmp/
